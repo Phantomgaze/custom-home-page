@@ -1,3 +1,5 @@
+SITE LINK:https://phantomgaze.github.io/custom-home-page/
+
 This is a custom homepage for web browsers created using HTML and CSS. The homepage is designed to be set as the default homepage in web browsers, providing users with a personalized and visually appealing start page when they open their web browser.
 
 Features
